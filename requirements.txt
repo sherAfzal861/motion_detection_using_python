@@ -1,0 +1,2 @@
+Python version: 3.11.5 
+OpenCV version: 4.8.1
