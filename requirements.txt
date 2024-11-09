@@ -1,2 +1,5 @@
 Python version: 3.11.5 
 OpenCV version: 4.8.1
+
+"botId": "6f1f1378-faf9-4a9a-8297-e5e04352dc88",
+"clientId": "6f1f1378-faf9-4a9a-8297-e5e04352dc88",
